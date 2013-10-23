@@ -1,0 +1,4 @@
+googlecodestylenote
+===================
+
+personal note file.. 
